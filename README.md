@@ -1,5 +1,6 @@
-### Hi there 👋
+### 你好 👋
 
+😄 这里是时不时会整些花活的咸鱼大学生
 <!--
 **Zeromes/Zeromes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
